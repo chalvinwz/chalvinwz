@@ -1,30 +1,20 @@
-### Hi👋
+# Hey, I'm Chalvin 👋
 
-# I'm Chalvin Wiradhika
+```text
+chalvinwz@earth:~$ whoami
+IT Infrastructure Engineer
+Building reliable systems, automating everything possible.
+```
 
-### About Me
+### 🛠️ Tech Stack I Enjoy
 
-- &nbsp; Undergraduate student at [President University](https://www.president.ac.id/), majoring Information Technology.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,go,python,linux,docker,kubernetes,bash,ansible,terraform,postgres,aws,gcp,git,github,gitlab,vscode,figma&perline=6" alt="skills"/>
+</p>
 
-- &nbsp; Interested in Software Engineering stuff, working with React.js, Next.js, Svelte, etc.
+---
 
-- &nbsp; Play music instruments and sports for fun.
-
-<hr>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalvinwz&show_icons=true)
-
-<hr>
-
-### 🤝🏻 Connect with Me
-
-<a href="https://www.linkedin.com/in/chalvinwiradhika/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chalvin Wiradhika-blue?style=flat&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/chalvinwz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-chalvinwz-blue?style=flat&logo=instagram"></a>
-
-<a href="https://twitter.com/chalvinwz"><img alt="Email" src="https://img.shields.io/badge/Twitter-chalvinwz-blue?style=flat&logo=twitter"></a>
-
-<a href="https://t.me/chalvinwz"><img alt="Email" src="https://img.shields.io/badge/Telegram-chalvinwz-blue?style=flat&logo=telegram"></a>
-
-<hr>
+<div align="center">
+  Thanks for stopping by! Feel free to ⭐ any repo you like ~<br/>
+  ✨ Let's build something cool together!
+</div>
