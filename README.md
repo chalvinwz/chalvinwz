@@ -1,5 +1,3 @@
-# Hey, I'm Chalvin 👋
-
 ```text
 chalvinwz@earth:~$ whoami
 IT Infrastructure Engineer
